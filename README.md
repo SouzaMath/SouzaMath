@@ -20,17 +20,17 @@
 <br>
 
 ### Languages and Tools
-<img src="icons/kotlin.png" style="margin:2px 2px" alt="kotlin" width="22px"/>
-<img src="icons/android.svg" style="margin:2px 2px" alt="android" width="22px"/>
-<img src="icons/github.svg" style="margin:2px 2px" alt="github" width="22px"/>
-<img src="icons/git.svg" style="margin:2px 2px" alt="git" width="22px"/>
-<img src="icons/google.svg" style="margin:2px 2px" alt="google tools" width="22px"/>
-<img src="icons/gradle.svg" style="margin:2px 2px" alt="gradle" width="22px"/>
-<img src="icons/java.svg" style="margin:2px 2px" alt="java" width="22px"/>
-<img src="icons/linux.svg" style="margin:2px 2px" alt="linux" width="22px"/>
-<img src="icons/mysql.svg" style="margin:2px 2px" alt="mysql" width="22px"/>
-<img src="icons/trello.svg" style="margin:2px 2px" alt="trello" width="22px"/>
-<img src="icons/ubuntu.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
+<img src="icons/kotlin.png" style="margin:2px 2px; float:left;" alt="kotlin" width="22px"/>
+<img src="icons/android.svg" style="margin:2px 2px; float:left;" alt="android" width="22px"/>
+<img src="icons/github.svg" style="margin:2px 2px; float:left;" alt="github" width="22px"/>
+<img src="icons/git.svg" style="margin:2px 2px; float:left;" alt="git" width="22px"/>
+<img src="icons/google.svg" style="margin:2px 2px; float:left;" alt="google tools" width="22px"/>
+<img src="icons/gradle.svg" style="margin:2px 2px; float:left;" alt="gradle" width="22px"/>
+<img src="icons/java.svg" style="margin:2px 2px; float:left;" alt="java" width="22px"/>
+<img src="icons/linux.svg" style="margin:2px 2px; float:left;" alt="linux" width="22px"/>
+<img src="icons/mysql.svg" style="margin:2px 2px; float:left;" alt="mysql" width="22px"/>
+<img src="icons/trello.svg" style="margin:2px 2px; float:left;" alt="trello" width="22px"/>
+<img src="icons/ubuntu.svg" style="margin:2px 2px; float:left;" alt="ubuntu" width="22px"/>
 
 
 [twitter]: https://twitter.com/matheussouzatw
