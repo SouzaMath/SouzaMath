@@ -20,9 +20,9 @@
 <br>
 
 ### Languages and Tools
-<img src="icons/kotlin.png" style="margin:2px 2px; float:left;" alt="kotlin" width="22px"/>
-<img src="icons/android.svg" style="margin:2px 2px; float:left;" alt="android" width="22px"/>
-<img src="icons/github.svg" style="margin:2px 2px; float:left;" alt="github" width="22px"/>
+<img src="icons/kotlin.png" style="margin:2px 2px;float:left;" alt="kotlin" width="22px"/>
+<img src="icons/android.svg" style="margin:2px 2px;float:left;" alt="android" width="22px"/>
+<img src="icons/github.svg" style="margin:2px 2px;float:left;" alt="github" width="22px"/>
 <img src="icons/git.svg" style="margin:2px 2px; float:left;" alt="git" width="22px"/>
 <img src="icons/google.svg" style="margin:2px 2px; float:left;" alt="google tools" width="22px"/>
 <img src="icons/gradle.svg" style="margin:2px 2px; float:left;" alt="gradle" width="22px"/>
