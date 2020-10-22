@@ -13,7 +13,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12176532632&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-### Connect with me:
+### Connect with me
 [<img align="left" style="margin:2px 2px" alt="SouzaMath LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="margin:2px 2px" alt="SouzaMath Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
