@@ -1,16 +1,14 @@
-# Hi! I'm Matheus!
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+# Hi! My name is Matheus!
 
-### I'm a Android Developer
+### I'm a Android Developer 
 
-- 🔭 I'm currently working on projects on BLE communication with energy meters
-- 🌱 I’m currently learning about Kotlin Coroutines
-- 👯 I’m looking to collaborate on Android Open Source Projects 
-- 😄 Pronouns: He...
+- 📝🏢 I'm currently working on projects for BLE communication with energy meters
+- 🖥💻 I'm always learning about new technologies 🤓
+- 🔍 I'm looking for new opportunities on my career
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Me and my wife are going to have a baby 👶🍼
 
 ### Spotify Playing 🎧
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12176532632&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me
