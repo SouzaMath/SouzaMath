@@ -29,7 +29,7 @@
 <img align="left" src="icons/mysql.svg" style="margin:2px 2px" alt="mysql" width="22px"/>
 <img align="left" src="icons/trello.svg" style="margin:2px 2px" alt="trello" width="22px"/>
 <img align="left" src="icons/ubuntu.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-
+<img align="left" src="icons/firebase.png" style="margin:2px 2px" alt="ubuntu" width="22px"/>
 
 [twitter]: https://twitter.com/matheussouzatw
 [linkedin]: https://www.linkedin.com/in/matheus-souza-73700a190/
