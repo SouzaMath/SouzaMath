@@ -2,11 +2,10 @@
 
 ### I'm a Android Developer 
 
-- 📝🏢 I'm currently working on Android projects
-- 🖥💻 I'm always learning about new technologies 🤓
-- 🔍 I'm looking for technologies to studie
+- 📝🏢 I'm currently working into an Android Project for Drone Flight Control
+- 🖥💻 I'm currently learrning about the web stack 🤓
+- 🔍 I'm looking for an interesting project to coop
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Me and my wife are going to have a baby 👶🍼
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12176532632&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
