@@ -25,18 +25,10 @@
 <img align="left" src="icons/gradle.svg" style="margin:2px 2px" alt="gradle" width="22px"/>
 <img align="left" src="icons/java.svg" style="margin:2px 2px" alt="java" width="22px"/>
 <img align="left" src="icons/linux.svg" style="margin:2px 2px" alt="linux" width="22px"/>
-<img align="left" src="icons/mysql.svg" style="margin:2px 2px" alt="mysql" width="22px"/>
 <img align="left" src="icons/trello.svg" style="margin:2px 2px" alt="trello" width="22px"/>
 <img align="left" src="icons/ubuntu.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
 <img align="left" src="icons/firebase.png" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/csharp-original.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/css3-original-wordmark.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
 <img align="left" src="icons/firebase-icon.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/google_cloud-icon.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/html5-original-wordmark.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/javascript-original.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/php-original.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
-<img align="left" src="icons/python-original.svg" style="margin:2px 2px" alt="ubuntu" width="22px"/>
 
 [twitter]: https://twitter.com/matheussouzatw
 [linkedin]: https://www.linkedin.com/in/matheus-souza-73700a190/
